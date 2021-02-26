@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/akka-http-play_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/Book$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CRUD_app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/CRUD_app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/BookService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CRUD_app$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/CRUD_app$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookFormatter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/BookFormatter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/Book.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CRUD_app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/classes/CRUD_app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

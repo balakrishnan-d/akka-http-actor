@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mExecuting Native docker build --force-rm -t akka-http-play:0.1 .[0m
+[0m[[0m[0mdebug[0m] [0m[0mWorking directory /Users/bdoraisa/work/repos/akka-http-play/target/docker/stage[0m
+[0m[[0m[0minfo[0m] [0m[0mSending build context to Docker daemon  54.42MB[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 1/6 : FROM openjdk:latest[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 7666c92f41b0[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 2/6 : WORKDIR /opt/docker[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 8612ace8d4ce[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 3/6 : ADD --chown=daemon:daemon opt /opt[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 21fc244e19bd[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 4/6 : USER daemon[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 7894ddd52837[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 7894ddd52837[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 3b8794034f7f[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 5/6 : ENTRYPOINT ["/opt/docker/bin/akka-http-play"][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 38be9a006b20[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 38be9a006b20[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> a04495016ee3[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 6/6 : CMD [][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Running in 0ee7bea92d82[0m
+[0m[[0m[0minfo[0m] [0m[0mRemoving intermediate container 0ee7bea92d82[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 089933d91798[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully built 089933d91798[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully tagged akka-http-play:0.1[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt image akka-http-play with tags [0.1][0m

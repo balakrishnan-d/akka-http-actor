@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bdoraisa/work/repos/akka-http-play/target/scala-2.13/akka-http-play_2.13-0.1-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CRUD_app.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/src/main/scala/CRUD_app.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/src/main/scala/BookService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookFormatter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/src/main/scala/BookFormatter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Book.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bdoraisa/work/repos/akka-http-play/src/main/scala/Book.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

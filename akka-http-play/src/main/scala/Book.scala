@@ -1,0 +1,1 @@
+case class Book(id: Option[String] = None, name: String, author: String)
